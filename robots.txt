@@ -3,4 +3,4 @@ Disallow: /about
 Disallow: /contact
 Disallow: /privacy
 
-
+Sitemap: https://www.goldpricepergram9ct.com/sitemap.xml
